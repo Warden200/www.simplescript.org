@@ -244,7 +244,7 @@
     <div class="nav">
         <ul>
             <li><a href="#">Главная</a></li>
-            <li><a href="#">Скачать</a></li>
+            <li><a href="https://drive.google.com/file/d/1VdEeZsqmInlGkLfzp11w4nKv6eAsNLmD/view?usp=drive_link">Скачать</a></li>
             <li><a href="#">Документация</a></li>
             <li><a href="#">Сообщество</a></li>
             <li><a href="#">Новости</a></li>
@@ -271,7 +271,7 @@
             <div class="widget">
                 <h3>Быстрые ссылки</h3>
                 <ul>
-                    <li><a href="#">Скачать SS</a></li>
+                    <li><a href="https://drive.google.com/file/d/1VdEeZsqmInlGkLfzp11w4nKv6eAsNLmD/view?usp=drive_link">Скачать SS</a></li>
                     <li><a href="#">Документация</a></li>
                     <li><a href="#">Примеры кода</a></li>
                     <li><a href="#">GitHub</a></li>
@@ -293,7 +293,7 @@
             <div class="download-box">
                 <div class="version">Simple Script 2.5.1</div>
                 <p>Работает на любом устройстве — Windows, macOS, Linux, FreeBSD</p>
-                <a href="#" class="button">⬇ Скачать SS</a>
+                <a href="https://drive.google.com/file/d/1VdEeZsqmInlGkLfzp11w4nKv6eAsNLmD/view?usp=drive_link" class="button">⬇ Скачать SS</a>
                 <a href="#" class="button">📖 Документация</a>
             </div>
             
