@@ -293,7 +293,7 @@
             <div class="download-box">
                 <div class="version">Simple Script 2.5.1</div>
                 <p>Работает на любом устройстве — Windows, macOS, Linux, FreeBSD</p>
-                <a href="https://drive.google.com/file/d/1J6yhjSQUZyiK2GVQBMY3geBvSJdX2ZYS/view?usp=drive_link" class="button">⬇ Скачать SS</a>
+                <a href="https://drive.google.com/file/d/1J6yhjSQUZyiK2GVQBMY3geBvSJdX2ZYS/view?usp=drive_link">⬇ Скачать SS</a>
                 <a href="#" class="button">📖 Документация</a>
             </div>
             
