@@ -1,4 +1,3 @@
-[Simplescriptsite.html](https://github.com/user-attachments/files/26602177/Simplescriptsite.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
