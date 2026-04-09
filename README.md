@@ -246,7 +246,7 @@
             <li><a href="#">Главная</a></li>
             <li><a href="https://drive.google.com/file/d/1J6yhjSQUZyiK2GVQBMY3geBvSJdX2ZYS/view?usp=drive_link">Скачать</a></li>
             <li><a href="#">Документация</a></li>
-            <li><a href="#">Сообщество</a></li>
+            <li><a href="https://github.com/Warden200/www.simplescriptforum.org/issues">Сообщество</a></li>
             <li><a href="#">Новости</a></li>
         </ul>
     </div>
@@ -274,7 +274,7 @@
                     <li><a href="https://drive.google.com/file/d/1J6yhjSQUZyiK2GVQBMY3geBvSJdX2ZYS/view?usp=drive_link">Скачать SS</a></li>
                     <li><a href="#">Документация</a></li>
                     <li><a href="#">Примеры кода</a></li>
-                    <li><a href="#">GitHub</a></li>
+                    <li><a href="https://github.com/Warden200/www.simplescriptforum.org/issues">GitHub</a></li>
                     <li><a href="#">FAQ</a></li>
                 </ul>
             </div>
@@ -326,7 +326,7 @@
     
     <div class="footer">
         <p>© 2008–2026 Simple Script Language Team. Легкий язык для скриптов.</p>
-        <p><a href="#">О проекте</a> | <a href="#">Лицензия MIT</a> | <a href="#">GitHub</a> | <a href="#">Документация</a> | <a href="#">Контакты</a></p>
+        <p><a href="#">О проекте</a> | <a href="#">Лицензия MIT</a> | <a href="https://github.com/Warden200/www.simplescriptforum.org/issues">GitHub</a> | <a href="#">Документация</a> | <a href="#">Контакты</a></p>
         <p style="margin-top: 4px; font-size: 9px;">Simple Script — работает на любом устройстве. Библиотеки не нужны!</p>
     </div>
 </div>
